@@ -24,5 +24,14 @@
     "audit",
     "cli"
   ],
+  "author": "Bartek Makos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakiBM/tw-arbitrary-finder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MakiBM/tw-arbitrary-finder/issues"
+  },
+  "homepage": "https://github.com/MakiBM/tw-arbitrary-finder#readme",
   "license": "MIT"
 }
