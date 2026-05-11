@@ -1,0 +1,28 @@
+{
+  "name": "tw-arbitrary-finder",
+  "version": "1.0.0",
+  "description": "Find Tailwind arbitrary-value classes (e.g. text-[13px], bg-[#abc]) across your codebase.",
+  "bin": {
+    "tw-arbitrary-finder": "bin/cli.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "glob": "^10.3.10",
+    "ignore": "^7.0.5"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "arbitrary",
+    "magic-numbers",
+    "lint",
+    "audit",
+    "cli"
+  ],
+  "license": "MIT"
+}
